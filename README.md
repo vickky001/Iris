@@ -2,7 +2,7 @@
 
 Iris Flower Dataset  
 
-![maxresdefault](https://user-images.githubusercontent.com/20630950/119269830-50c09480-bc17-11eb-89de-9c4b72c90c02.jpg)
+![maxresdefault (3)](https://user-images.githubusercontent.com/20630950/119271431-1fe45d80-bc1f-11eb-9b66-ac8ea60be2d3.jpg)
 ![download](https://user-images.githubusercontent.com/20630950/119269838-5918cf80-bc17-11eb-869d-9e5743affa0b.jpg)  
 
 - This repository explains exploratory data analysis (EDA) on Iris Flower Dataset.  
