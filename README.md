@@ -1,7 +1,7 @@
 # Iris
 Iris Flower Dataset  
 
-[screenshot](download.png)
+![screenshot](download.png)
 ## Installation
 pandas==1.2.4  
 numpy==1.20.2  
